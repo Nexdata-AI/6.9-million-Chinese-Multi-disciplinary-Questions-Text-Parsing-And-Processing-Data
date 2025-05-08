@@ -1,4 +1,4 @@
-# 6.9million-Chinese-Multi-disciplinary-Questions-Text-Parsing-And-Processing-Data
+# 6.9-million-Chinese-Multi-disciplinary-Questions-Text-Parsing-And-Processing-Data
 
 ## Description
 6.9 million - Chinese Multi-disciplinary Questions Text Parsing And Processing Data, including multiple disciplines in primary school, middle school, high school and university. Each questions contain title, answer, parse, type, subject, grade. The dataset can be used for large model subject knowledge enhancement tasks.
